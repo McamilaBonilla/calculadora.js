@@ -1,4 +1,5 @@
 // Versión 1.1 - Proyecto ADSO
+// Tarea 2 - Mejoras en la calculadora
 
 console.log("console.log("Bienvenido a la calculadora básica versión 1.1");
 );
