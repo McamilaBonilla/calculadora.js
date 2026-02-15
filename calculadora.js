@@ -1,4 +1,7 @@
-console.log("Hola, esta es una nueva calculadora básica");
+// Versión 1.1 - Proyecto ADSO
+
+console.log("console.log("Bienvenido a la calculadora básica versión 1.1");
+);
 
 let opcion = prompt("Elige una opción:\n1 para suma\n2 para resta\n3 para multiplicación\n4 para división");
 
